@@ -1,0 +1,91 @@
+ul{
+	margin-left: 270px;
+}
+li{
+	display: table-cell;
+	padding: 28px;
+	text-decoration: none;
+	margin-left: 170px;
+}
+a{
+	color: black;
+	font-weight: bold;
+}
+.paisaje{
+	
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 380px;
+}
+.logo{
+	width: 80px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+	color:white;
+
+}
+h3{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+.titulo{
+	margin-left: -290px;
+}
+.centro{
+	padding: 12%;
+	margin-left: 290px;
+}
+.profile{
+	border:1px solid black;
+	padding: 5px;
+}
+h2{
+	text-align: center;
+	color:purple;
+}
+p{
+
+	width: 780px;
+}
+h4{
+	text-align: center;
+	color:purple;
+	font-size: 18.5px;
+}
+.titulo2{
+	margin-left: 210px;
+}
+.cat img {
+	width: 105%;
+	margin: 20%;
+    border-radius: 50%;
+    border: 2px solid purple;
+    padding: 5px;
+
+}
+.letras{
+	background-image: url(../images/tile1.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 380px;
+}
+.pie{
+	background-image: url(../images/tile2.png);
+	height: 380px;
+}
+.final{
+	margin-left: 130px;
+	padding-top: 80px;
+}
+.masredes{
+	display: table-cell;
+	padding: 20px;
+	text-decoration: none;
+	width: 100%;
+
+}
